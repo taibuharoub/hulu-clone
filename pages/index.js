@@ -9,7 +9,6 @@ export default function Home() {
         <title>Hulu Clone</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="">Hulu Clone</h1>
 
       {/* Header  */}
       <Header />
