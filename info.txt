@@ -1,0 +1,4 @@
+npx create-next-app hulu-clone
+
+will add tailwindcss manually 
+set up tailwindcss
